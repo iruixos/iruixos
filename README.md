@@ -26,8 +26,6 @@ Minecraft server plugins focused on practical quality-of-life improvements, thou
 
 **[View VanillaPlusSuite on GitHub](https://github.com/iruixos/VanillaPlusSuite)**
 
-> **Repository link to verify:** The VanillaPlusSuite URL above assumes the repository is named `VanillaPlusSuite`. Replace it if your repository uses a different name.
-
 ## Nexora
 
 [![Nexora — Minecraft portal network plugin](assets/nexora.png)](https://github.com/iruixos/Nexora)
