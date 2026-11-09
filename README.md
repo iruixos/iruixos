@@ -2,13 +2,13 @@
 
 Minecraft server plugins focused on practical quality-of-life improvements, thoughtful gameplay mechanics, and a near-vanilla survival experience.
 
-## Reapwright
+## Nexora
 
-[![Reapwright — Minecraft harvesting and replanting plugin](assets/reapwright.png)](https://github.com/iruixos/Reapwright)
+[![Nexora — Minecraft portal network plugin](assets/nexora.png)](https://github.com/iruixos/Nexora)
 
-**Reapwright** makes crop farming more convenient while keeping survival gameplay intact. Harvest mature crops with a supported hoe, automatically replant using available seeds, and configure the harvesting area to suit your server.
+**Nexora** adds configurable portal networks to Minecraft. Connect gates using pair, round-robin, or random destination routing, with persistent gate identities and ownership checks to help protect shared networks.
 
-**[View Reapwright on GitHub](https://github.com/iruixos/Reapwright)**
+**[View Nexora on GitHub](https://github.com/iruixos/Nexora)**
 
 ## Duskweaver
 
@@ -26,13 +26,13 @@ Minecraft server plugins focused on practical quality-of-life improvements, thou
 
 **[View VanillaPlusSuite on GitHub](https://github.com/iruixos/VanillaPlusSuite)**
 
-## Nexora
+## Reapwright
 
-[![Nexora — Minecraft portal network plugin](assets/nexora.png)](https://github.com/iruixos/Nexora)
+[![Reapwright — Minecraft harvesting and replanting plugin](assets/reapwright.png)](https://github.com/iruixos/Reapwright)
 
-**Nexora** adds configurable portal networks to Minecraft. Connect gates using pair, round-robin, or random destination routing, with persistent gate identities and ownership checks to help protect shared networks.
+**Reapwright** makes crop farming more convenient while keeping survival gameplay intact. Harvest mature crops with a supported hoe, automatically replant using available seeds, and configure the harvesting area to suit your server.
 
-**[View Nexora on GitHub](https://github.com/iruixos/Nexora)**
+**[View Reapwright on GitHub](https://github.com/iruixos/Reapwright)**
 
 ---
 
