@@ -34,6 +34,15 @@ Minecraft server plugins focused on practical quality-of-life improvements, thou
 
 **[View Reapwright on GitHub](https://github.com/iruixos/Reapwright)**
 
+## WayBridge
+
+[![WayBridge — Minecraft sign-based teleportation plugin](assets/waybridge.png)](https://github.com/iruixos/WayBridge)
+
+**WayBridge** connects named destinations using physical warp signs, including across worlds. Create public or private WarpTargets, invite trusted players, and manage protected links with safe teleportation and migration tools.
+
+**[View WayBridge on GitHub](https://github.com/iruixos/WayBridge)**
+
+
 ---
 
 *Built for Minecraft server communities that appreciate useful features without losing the survival experience.*
